@@ -1,0 +1,4 @@
+user:
+  - username: "playerOne"
+    password: "hashed_password_1"
+
